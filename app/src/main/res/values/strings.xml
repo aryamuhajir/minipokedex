@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AplikasiSederhana</string>
+    <string name="pokemon_name">Nama Pokemon</string>
+    <string name="detail">Keterangan</string>
+    <string name="pokedex">Mini Pokedex</string>
+    <string name="nama_pokemon">NAMA POKEMON</string>
+    <string name="elemen">elemen</string>
+    <string name="elemen_tetap">Elemen &#x20; &#x20;=</string>
+    <string name="ability_tetap">Ability \t\t\t=</string>
+    <string name="ability">ability</string>
+    <string name="makanan_tetap">Makanan =</string>
+    <string name="makanan">makanan</string>
+    <string name="habitat_tetap">Habitat\t =</string>
+    <string name="habitat">habitat</string>
+    <string name="isi_konten">isi_konten</string>
+    <string name="nama_profile">Muhammad Dimas Arya Muhajir</string>
+    <string name="email_profile">aryamuhajir888@gmail.com</string>
+    <string name="detaill">DETAIL</string>
+
+
+</resources>

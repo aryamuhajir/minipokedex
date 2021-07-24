@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="api">#FFA726</color>
+    <color name="air">#84FFFF</color>
+    <color name="listrik">#FFEE58</color>
+    <color name="tumbuhan">#81C784</color>
+    <color name="racun">#4CAF50</color>
+    <color name="normal">#E8F5E9</color>
+</resources>
