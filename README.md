@@ -16,9 +16,11 @@ There are two Gradle tasks for testing the project:
 
 Screenshots
 -----------
+<p float="left">
+ <img src="splashscreen.jpg" width="300">
+ <img src="preview.jpg" width="300">
+ </p>
 
-![Splash Screen](splashscree.jpg)
-![Recyclerview](preview.jpg)
 
 
 Libraries Used
