@@ -1,4 +1,4 @@
-Mini Pokedex Androoid
+Mini Pokedex Android
 =================
 
 A Pokedex or pokemon library application that contains little information about some pokemons.
